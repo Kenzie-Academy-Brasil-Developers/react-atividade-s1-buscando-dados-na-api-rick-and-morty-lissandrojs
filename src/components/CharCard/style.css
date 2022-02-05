@@ -1,0 +1,18 @@
+.img--person {
+    width: 45%;
+    height: 45%;
+}
+
+.container--dados--person {
+    margin: 15px 20px 15px 20px;
+    background: radial-gradient(#00932f, transparent);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 77px;
+    color: #068cb1;
+    font-weight: bold;
+
+}

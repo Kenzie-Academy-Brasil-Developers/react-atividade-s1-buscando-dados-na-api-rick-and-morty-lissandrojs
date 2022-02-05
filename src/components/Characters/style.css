@@ -1,0 +1,11 @@
+.container--person{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    color: #18c1f0;
+}
